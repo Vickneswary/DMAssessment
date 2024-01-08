@@ -6,6 +6,7 @@ Dataset Source: https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-b
 Objective: The dataset simulates a comprehensive e-commerce environment, covering various aspects of customer behaviour and purchase history within an E-commerce Industry. The primary objectives of the case study is include exploring customer shopping habits, predicting customer churn, and identifying purchase patterns.
 
 The project utilizes three main tools: SAS e-Miner, Talend Data Integration, and Talend Data Prep. These tools play distinct roles in the analysis:
+
 SAS e-Miner:
 Objective: SAS e-Miner is employed for predictive modeling and data analysis in the e-commerce domain. It likely facilitates tasks such as customer churn prediction, where historical data is used to develop models that can predict whether a customer is likely to stop using the platform based on their behavior.
 
